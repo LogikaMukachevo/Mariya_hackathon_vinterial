@@ -32,6 +32,13 @@
     background: url(https://learn.logikaschool.com/uploads/student/5339227/681eed8164d73.jpg) no-repeat center center / cover;
     padding: 400px 10%;
 }
+body {
+    background-color: #3c115c;
+    color: #f6effb;
+    font-family: Prata, serif;
+    text-align: center;
+
+}
 
 body p {
     border: 1px solid #bb96d9;
