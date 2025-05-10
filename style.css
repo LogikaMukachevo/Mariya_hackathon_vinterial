@@ -15,7 +15,6 @@
     margin: 0 auto;
     width: 500px;
     top: 0;
-   
 }
 
 .h2-3 {
@@ -61,12 +60,6 @@ h2 {
 p {
     text-align: center;
     font-size: 20px;
-}
-
-.p-1{
-    background-color: rgba(26, 0, 14, 0.407);
-    font-size: bold;
-    font-size: 25px;
 }
 
 .h2-1{
