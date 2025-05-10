@@ -1,5 +1,5 @@
 .div-1 {
-    background: url("https://images.steamusercontent.com/ugc/838081065907816531/1C479623ADAE5CC0BA60442181A189B404D1336D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=falsehttps://images.steamusercontent.com/ugc/838081065907816531/1C479623ADAE5CC0BA60442181A189B404D1336D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false") no-repeat center center / cover;
+    background: url("https://learn.logikaschool.com/uploads/student/5339227/681f6723a7cb6.gif") no-repeat center center / cover;
     color: #d9c5e8;
     padding: 290px;
 }
@@ -10,20 +10,38 @@
 
 .p-1 {
     text-align: center;
+    background-color: #deb866;
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    top: 0;
+   
 }
 
+.h2-3 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: #deb866;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
 
 .div-2 {
     background: url(https://learn.logikaschool.com/uploads/student/5339227/681eed8164d73.jpg) no-repeat center center / cover;
     padding: 400px 10%;
 }
 
-body {
-    background-color: #3c115c;
-    color: #f6effb;
-    font-family: Prata, serif;
-    text-align: center;
-
+body p {
+    border: 1px solid #bb96d9;
+    padding: 10px;
+    width: 860px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    font-family: Kurale, serif;
 }
 
 h1,
